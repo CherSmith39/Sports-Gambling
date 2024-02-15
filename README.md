@@ -1,5 +1,4 @@
 # Swifty-Analytics
-![image}
 
 Problem
 ![image](https://github.com/CherSmith39/Swifty-Analytics/assets/150204821/0717bfbd-fb3e-4d45-a1a5-9964a9bbadbf)
